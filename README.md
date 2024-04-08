@@ -1,2 +1,2 @@
-# TrafficSimulation
-Multi-threaded Road-traffic simulation
+# Java Traffic Simulation
+This project invloded implementing a simulation of a road intersection. Traffic on road segments was to be controlled through a group of phases. Each phase is an interval of time assigned to the movement of traffic through a traffic signal. The control flow was to use synchronized threade to ensure efficient runtime execution. Below excerps from the codebase are outlined to showcase some important software engineering fundimentals covered in this project. 
